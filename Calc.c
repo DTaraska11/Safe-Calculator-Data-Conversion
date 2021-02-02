@@ -1,15 +1,6 @@
 
 /*
 Dominic Taraska
-Tug76525@temple.edu
-
-The program is fully functional without any major problems,
-but for hexadecimal and binary outputs sometimes there
-will be unwanted artifacts at the end of the strings.
-I was unable to fix this in time.
-
-
-
 
 */
 
